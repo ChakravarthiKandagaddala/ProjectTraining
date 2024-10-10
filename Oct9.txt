@@ -1,0 +1,10 @@
+-------Version control-------
+Git is source code management tool. Git is used to maintain ou upload code because multiple teams work on a project and the changes will be made in the code development.
+In order to that we push our code into git repository and make the team keep updated code to work on.
+
+At first we have to install git in our local system and parallely create a github account.To maintain code repository we have to create local folder and keep all files in it.
+Then initialize git in that particular folder and by using some of the below commands we push our code into github repo.
+There are few more commands to update,merging etc functionalities as follows.
+
+git init = command used to initialize git in local folder
+git
